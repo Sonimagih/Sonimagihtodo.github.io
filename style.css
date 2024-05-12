@@ -1,0 +1,65 @@
+body
+{
+    background-color: rgb(28, 56, 40);
+}
+
+#loginForm
+{
+   color: beige;
+   height: 7cm;
+   font-weight: 500;
+   font-size: 30px;
+   text-align: center;
+}
+h1{
+    color: beige;
+    font-weight: 700;
+    text-align: center;
+}
+#logoutLink
+{
+    color: blue;
+    
+    
+}
+#todoListLink
+{
+    color: blue;
+}
+#todoList
+{
+    
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
